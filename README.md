@@ -1,5 +1,5 @@
 # jk-pb-cellvolts
-Really simple solution to read all the cell voltages via RS485 Modbus and publish them to MQTT 
+Really compact and simple solution to read all the cell voltages via RS485 Modbus and publish them to MQTT 
 
 using read_holding_registers(), not the JK App method do write/trigger a register and receive lots of bytes.
 
